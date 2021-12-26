@@ -4,5 +4,5 @@ Theme of Sites
 
 ## Color
 
-Primiary Color: #4444BB
-Secondary Color: #FFFFFF
+- Primiary Color: #4444BB
+- Primiary Background Color: #FFFFFF
